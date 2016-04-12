@@ -1,6 +1,9 @@
 # papers
 Various papers (co-)written by me
 
+## 2016
+[Open Sesame: The Password Hashing Competition and Argon2 (CoRR abs/1602.03097) - J. Wetzels](Open_Sesame_The_Password_Hashing_Competition_and_Argon2.pdf)
+
 ## 2015
 [Sponges and Engines: An introduction to Keccak and Keyak. (CoRR abs/1510.02856) - J. Wetzels, W. Bokslag](sponges_and_engines_an_introduction_to_keccak_and_keyak.pdf)
 
